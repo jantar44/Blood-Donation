@@ -7,3 +7,4 @@ setup(
    author='Me',
    packages=['blood-donation'],
    install_requires=['matplotlib', 'numpy','pandas','sklearn'],
+)
